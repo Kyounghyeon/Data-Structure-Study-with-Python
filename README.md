@@ -16,3 +16,6 @@
 ## 자료구조  
 - 배열(Array)
 - 스택(Stack)
+- 큐(Queue)
+- 단순연결리스트 (Single linked list)
+- 환형연결리스트 (Circular linked list)
